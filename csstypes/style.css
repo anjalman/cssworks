@@ -1,0 +1,34 @@
+/* h1{
+    color: red;
+    text-align: center;
+    text-decoration: solid;
+    width: 500px;
+    border-top: 1px solid rebeccapurple;
+    border-bottom: 1px solid rebeccapurple;
+}
+h2{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+span{
+
+    color: greenyellow;
+    text-decoration: line-through;
+} */
+ #first{
+    color: red;
+ }
+ #second{
+    color: green;
+ }
+
+.text-danger{
+    color: red;
+}
+.text-success{
+    color: green;
+}
+.text-dec-underline{
+    text-decoration: underline;
+}

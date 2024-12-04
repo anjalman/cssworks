@@ -1,0 +1,22 @@
+.border{
+
+    border: 1px black solid;
+}
+.parent{
+
+    background-color: green;
+    height: 300px;
+    width: 80%;
+}
+.child{
+
+    background-color: blue;
+    height: 250px;
+    width: 50%;
+}
+.subchild{
+
+    background-color: aqua;
+    height: 100px;
+    width: 30%;
+}
